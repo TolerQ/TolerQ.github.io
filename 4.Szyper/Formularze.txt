@@ -1,0 +1,12 @@
+Zadanie 1.
+utwórz formularz składający się z nast pól:
+login
+hasło
+Zrób sanityzację kodu do loginu:
+zamień 1 literę na dużą pozostałe na małe
+Wyczyść z białych znaków
+Ogranicz długość do 12 znaków
+
+Wyświetl dane 
+1.Pobrane: wszystkie łącznie z ilością znaków
+2.Poprawne dane: bez ilości znaków

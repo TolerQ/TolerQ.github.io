@@ -1,0 +1,17 @@
+table ,tr , td{
+
+  border: solid black 1px;
+  padding: 10px;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.red {
+  background-color: red;
+}
+.yellow{
+background-color: yellow;
+}
+.green{
+background-color: green;
+}

@@ -1,0 +1,19 @@
+Napisz w pliku person.php klase person ze składowymi imie nazwisko data urodzenia miejscowość
+
+Utwórz metody pozwalające na przypisanie składowych
+Utwórz metodę pozwalającą przypisać wszystkim składowym wartości
+
+Napisz metodę wyświetlającą wszystkie właściwości z klasy Person w formacie
+(heredoc)
+Imie i Nazwisko : ... ...
+Data urodzenia : ...
+miejscowość: ...
+
+######### KONSTRUKTORY ##################
+
+Utwórz klase o nazwie Animal w pliku Animal.php
+w klasie Animal dodaj konstruktor który przypisze wartość początkową do ilości nóg (4).
+w konstrukorze należy przypisać jeszcze (wpisuje uzytkownik podczas tworzenia obiektu):
+ gatunek,kraj pochodzenia,waga,wzrost
+
+ Utwórz 2 obiekty i przypisz im wartości początkowe i wyświetl za pomocą metody getAll()
